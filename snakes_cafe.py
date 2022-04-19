@@ -25,7 +25,7 @@ print("**Appetizers**")
 
 for appetizer in appetizers:
     print(appetizer)
-    print('\n')
+  
 
 print("**Entrees**")
 #for x in range(len(entrees)):
